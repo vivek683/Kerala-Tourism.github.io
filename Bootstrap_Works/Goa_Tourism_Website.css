@@ -1,0 +1,91 @@
+/* Header Section Begins */
+/* .container_fluid{   background-color: rgb(47, 187, 126);    color: rgb(207, 154, 85);   height: 500px;} */
+.head{    background-color:#1e81b0;    color: white;    padding: 5px;  }
+div.left_head img{ width: 40px; }
+div.left_head button{    background-color:#1e81b0;    color: white;    font-weight: lighter;    border-style: none;   }
+div.head button:hover{    background-color: #ffffff;    color: #4691b4;    font-weight: bolder;    border-style:dotted;   }
+div.right_head a{    margin-left: 3px;    padding-top: 20px;  }
+div.right_head button{    background-color: #155c7e;    color: white;    font-weight: lighter;    border-style: none;    }
+
+/* Header Section Ends */
+
+/* Navbar Section Begins */
+.navbar{    background-color: #ffffff;  }
+.right_navbar{ height: 50px;   color: black;   }
+.right_navbar span{     font-weight: bolder;    }
+.navbar img{    height: 3em;   }
+.green_navbar{  background-color:rgb(137, 177, 164);    padding-left: 10px;     border-radius: 5px;}
+.green_navbar:hover{    background-color:rgb(161, 182, 175);    font-weight: bolder;    border-style: dashed;}
+.rose_navbar{   background-color:rgb(197, 126, 126);    padding-left: 10px;     border-radius: 5px;     margin-left: 20px;}
+.rose_navbar:hover{ background-color:rgb(202, 154, 154);    font-weight: bolder;    border-style: dashed;}
+.left_navbar a:hover{   font-weight: bolder; text-decoration: underline; }
+/* Navbar Section Ends */
+
+/* Carousel Section Begins */
+.carousel-item h5{    font-size: 10em;  vertical-align: middle; }
+.carousel-item p{    font-size: 5em;    }
+.carousel-item h5:hover{    color: #1e81b0; font-weight: bold; text-decoration: underline; }
+.carousel-item p:hover{ color: #1e81b0; font-weight: bold; }
+
+/* Carousel Section Ends */
+
+/* Discover Sikkim Section Begins */
+
+/* Discover Sikkim Section Endss */
+.cards{   text-align: center;    }
+.cards h5{  padding-top: 300px;   }
+.cards img{ width: 100%; height: 400px;   }
+.cards h1:hover{ color: #1e81b0; font-weight: bold; text-decoration: underline;  }
+.cards h5:hover{ color: orange;   }
+.cards button{background-color:#1e81b0;     width: 200px;    color: #ffffff;    font-weight: bolder;    text-align: center; }
+.cards button:hover{background-color: #ffffff;    color: #4691b4;    font-weight: bolder;    border-style:dotted;}
+.caro img{
+    width:100%;
+    height:525px;
+    border-radius: 20px;
+}
+
+/* Top Visited Place Begins */
+.top_visited h5{    font-size: 3em;  vertical-align: middle; }
+.top_visited h5:hover{    color: #1e81b0; font-weight: bold; text-decoration: underline; }
+.top_visited{
+    padding-top: 50px;
+    height: 100%;
+    width: 100%;
+    background-color: #eee2e2;
+    text-align: center;
+}
+.top_visited img{
+    height: 300px;
+    width: 500px;
+    margin-left: 0px;
+    margin-top: 10px;
+    position: relative;
+    text-align: center;
+    color: white;
+    filter: opacity(100%);
+    }
+    .top_visited img:hover{
+    filter: opacity(50%);
+    }
+     /* Top Visited Place Ends */
+
+
+     /* Experience Sikkim Section Begins */
+     .exp{
+         
+         padding-top: 50px;
+     }
+     .exp h5{ text-align: center;   font-size: 3em;  vertical-align: middle; }
+     .exp h5:hover{    color: #1e81b0; font-weight: bold; text-decoration: underline; }
+     .exp p{
+        padding-top: 50px;
+        text-align: left;
+        }
+    .exp img{
+        border-radius: 80px;
+        margin-left: 20px;
+        padding: 20px;
+       }
+            
+     /* Experience Sikkim Section Ends */

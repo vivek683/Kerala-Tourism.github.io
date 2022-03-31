@@ -1,0 +1,53 @@
+.left{
+background-color: aqua;
+/* padding-left: 35px; */
+}
+.mid{
+    background-color: rgb(73, 129, 129);
+    padding-top: 20px;
+}
+.right{
+    background-color: rgb(13, 53, 53);
+
+}
+
+div.header{
+    background-color: rgb(3, 3, 19);
+    color: white;
+    height: 300px;
+}
+#afzal{
+    font-weight: 500;
+}
+div.header img{
+    width: 250px;
+    height: 250px;
+    padding-top: 25px;
+    /* position: relative;
+    top: 25px;
+    left: 100px; */
+    
+    
+}
+div.header #afzal{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding-top: 40px;
+}
+div.header #head_description{
+font-size: x-large;
+/* position: relative;
+left: 400px;
+top: -250px; */
+
+}
+
+div.header #address{
+    font-size: x-large;
+    padding-top: 100px;
+    
+}
+div.footer{
+    height: 50px;
+    background-color: rgb(3, 3, 19);
+}
